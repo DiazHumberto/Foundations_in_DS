@@ -1,3 +1,7 @@
+"""
+Practicing in Matplotlib
+"""
+
 from matplotlib import pyplot as plt
 
 x_values = [1, 2, 5, 4, 4]

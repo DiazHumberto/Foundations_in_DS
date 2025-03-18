@@ -1,3 +1,14 @@
+"""
+Lab Exercise 1: Birth Date Calculations
+
+This script defines variables for the year, month, and day of birth, 
+calculates the sum and mean of these values, and prints the results 
+along with the user's name and student number. 
+
+Author: Humberto Diaz
+Date: March 14, 2025
+"""
+
 # Lab Exercise 1 
 
 # 1. Define birth date variables.
